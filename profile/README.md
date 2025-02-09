@@ -3,6 +3,16 @@
 ## About OnlyRoasts  
 OnlyRoasts is a fun, AI-powered platform designed to make blockchain transactions a little less serious — and a lot more entertaining. Connect your wallet, and let **Covalent**, our witty AI agent, analyze your transaction history to craft epic roasts. Whether you're a DeFi degen or NFT whale, Onlyroasts spares no one.  
 
+---
+
+## 🚀 Important Links  
+- **Next.js App:** [https://github.com/only-roasts/web](https://github.com/only-roasts/web)  
+- **Farcaster Frames:** [https://github.com/only-roasts/frames](https://github.com/only-roasts/frames)  
+- **Smart Contracts:** [https://github.com/only-roasts/contracts](https://github.com/only-roasts/contracts)  
+- **Subgraph:** [https://github.com/only-roasts/subgraph](https://github.com/only-roasts/subgraph)
+  
+---
+
 ![flow](https://github.com/user-attachments/assets/284c469e-f9f9-41ad-85a4-dd90edf7a977)
 
 ### 🌟 What Makes OnlyRoasts Unique?  
