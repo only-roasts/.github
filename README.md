@@ -9,7 +9,8 @@ OnlyRoasts is a fun, AI-powered platform designed to make blockchain transaction
 - **Next.js App:** [https://github.com/only-roasts/web](https://github.com/only-roasts/web)  
 - **Farcaster Frames:** [https://github.com/only-roasts/frames](https://github.com/only-roasts/frames)  
 - **Smart Contracts:** [https://github.com/only-roasts/contracts](https://github.com/only-roasts/contracts)  
-
+- **Subgraph:** [https://github.com/only-roasts/subgraph](https://github.com/only-roasts/subgraph)
+  
 ---
 
 ![image](https://github.com/user-attachments/assets/e4a4d372-2555-4ceb-ae76-3fd0c5b5ca5a)
